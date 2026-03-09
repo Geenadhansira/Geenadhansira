@@ -40,7 +40,7 @@ Building Skills in Software & Web Development
 
 - 💬 Ask me about **Frontend basics, beginner programming, and learning resources**
 
-- 📫 How to reach me **sameendev01@gmail.com**
+- 📫 How to reach me **geenadhansira@gmail.com**
 
 - ⚡ Fun fact **I prefer building skills quietly and consistently**
 
